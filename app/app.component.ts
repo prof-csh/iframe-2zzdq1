@@ -78,7 +78,7 @@ import { Component } from '@angular/core';
 
 <div class="multiple-iframe-container">
 
-    <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" src="http://maslaw.bmc.com:8000/app-full/#/catalog/section-3918349e-b12c-4428-944a-a33878c23125?simplifiedCatalog&amp;withoutCatalogSearch&amp;largeSectionView"></iframe>
+    <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" src="https://www.google.com/maps/d/edit?mid=11yh_gScy-kaPtqi7lcB2x6y3iIx49OFi&ll=47.617207372311675%2C-122.32112174999997&z=18"></iframe>
     
     <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" src="http://maslaw.bmc.com:8000/app-full/#/profile?simpleMyActivity"></iframe>
 
