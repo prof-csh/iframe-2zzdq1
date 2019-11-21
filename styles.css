@@ -1,0 +1,48 @@
+.style-for-fix-constructor {
+  display: none;
+}
+body {
+  background-color: #fff;
+}
+#banner {
+  background-color: #414042;
+  border-bottom: 2px solid #ee5525;
+  padding: 10px 0 10px;
+  margin-bottom: 60px;
+}
+#banner .user-personal-bar {
+  top: 10px;
+}
+#banner .user-personal-bar .sign-in>a {
+  color: #fff;
+}
+.container-fluid-1280 {
+  max-width: unset;
+}
+.portlet-boundary {
+  margin-bottom: 60px;
+}
+.portlet-decorate .portlet-content {
+  border: none;
+  padding: 0;
+}
+#footer {
+  font-size: 14px;
+  background-color: #414042;
+  margin: 0;
+  padding: 20px 15px;
+}
+#footer .row {
+  display: none;
+}
+#footer:before {
+    content: '© Copyright 1997 - 2018 BMC Software, Inc. All rights reserved.';
+    display: block;
+}
+#footer:after {
+    content: 'BMC, BMC Software, the BMC logo and the BMC Software logo are the exclusive properties of BMC Software, Inc., are registered with the U.S. Patent and Trademark Office, and may be registered or pending registration in other countries.';
+    display: block;
+}
+.portlet-title-text {
+  font-weight: 600;
+}
